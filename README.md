@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://my-1stportfolio.netlify.app" target="_blank" rel="noopener noreferrer"> 
-    <img height="250" width="800" src="https://leadproinfotech.com/wp-content/uploads/2025/01/mern-stack.png" alt="Welcome My Profile" />
+    <img height="250" width="800" src="https://i.ibb.co.com/MyGKwT8t/LinkedIn.png" alt="Welcome My Profile" />
   </a>
 </div>
 
